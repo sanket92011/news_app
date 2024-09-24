@@ -71,7 +71,7 @@ To use the MediaStack API, you need an API key:
 
 ### US News Screen
 
-![US News Screen](screenshots/Us.png)
+![US News Screen](screenshots/usNewsScreen.png)
 
 ### Description News Screen
 
